@@ -1,3 +1,3 @@
 # Website-Design
 
-static page!
+static page website!
